@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1683149015 source:d:\programming languages\c++\hrsystem\src\benefit.cpp
+	"Benefit.h"
+
+1682816935 d:\programming languages\c++\hrsystem\include\benefit.h
+	<string>
+	<iostream>
+
+1682628659 source:d:\programming languages\c++\hrsystem\src\commissionemployee.cpp
+	"CommissionEmployee.h"
+
+1683143435 d:\programming languages\c++\hrsystem\include\commissionemployee.h
+	<Employee.h>
+
+1683139041 d:\programming languages\c++\hrsystem\include\employee.h
+	<string>
+	<iostream>
+
+1683149016 source:d:\programming languages\c++\hrsystem\src\dentalbenefit.cpp
+	"DentalBenefit.h"
+
+1682816935 d:\programming languages\c++\hrsystem\include\dentalbenefit.h
+	<Benefit.h>
+
+1682374987 source:d:\programming languages\c++\hrsystem\src\department.cpp
+	"Department.h"
+
+1681957700 d:\programming languages\c++\hrsystem\include\department.h
+	<string>
+	<iostream>
+
+1683139041 source:d:\programming languages\c++\hrsystem\src\employee.cpp
+	"Employee.h"
+
+1683148861 source:d:\programming languages\c++\hrsystem\src\healthbenefit.cpp
+	"HealthBenefit.h"
+
+1682816935 d:\programming languages\c++\hrsystem\include\healthbenefit.h
+	<Benefit.h>
+
+1682628659 source:d:\programming languages\c++\hrsystem\src\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1682812613 d:\programming languages\c++\hrsystem\include\hourlyemployee.h
+	<Employee.h>
+
+1682884068 source:d:\programming languages\c++\hrsystem\src\hrsystem.cpp
+	"HrSystem.h"
+
+1682812613 d:\programming languages\c++\hrsystem\include\hrsystem.h
+	"Employee.h"
+	<string>
+	<iostream>
+
+1682628659 source:d:\programming languages\c++\hrsystem\src\manageremployee.cpp
+	"ManagerEmployee.h"
+
+1682812613 d:\programming languages\c++\hrsystem\include\manageremployee.h
+	<SalariedEmployee.h>
+
+1682628659 d:\programming languages\c++\hrsystem\include\salariedemployee.h
+	<Employee.h>
+
+1682628659 source:d:\programming languages\c++\hrsystem\src\salariedemployee.cpp
+	"SalariedEmployee.h"
+
+1683165324 source:d:\programming languages\c++\hrsystem\main.cpp
+	<iostream>
+	"Department.h"
+	"Benefit.h"
+	"HealthBenefit.h"
+	"DentalBenefit.h"
+	"Employee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"SalariedEmployee.h"
+	"ManagerEmployee.h"
+	"HrSystem.h"
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
